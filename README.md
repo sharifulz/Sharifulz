@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 ![Banner](https://i.imgur.com/qb9HRdX.png) <!-- Replace with your own banner image -->
 
-# 💻 Hi there, I'm [Your Name] 👋
+# 💻 Hi there, I'm Shariful Islam 👋
 
 I’m a **Senior Software Engineer** with over 6 years of experience building scalable enterprise systems using Java and modern web technologies. I’m passionate about clean code, system architecture, and exploring new tech trends.
 
