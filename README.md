@@ -72,10 +72,6 @@
 <table><tr><td valign="top" width="50%">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sharifulz&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 
-</td><td valign="top" width="50%">
-
-[![Md. Topu Raihan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sharifulz&theme=github-compact)](https://github.com/sharifulz/github-readme-activity-graph)
-
 </td></tr></table>
 
 ## My Skill Set  
@@ -132,40 +128,6 @@
 </td></tr></table>  
 
 <br/> 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sharifulz" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://twitter.com/sharifulz" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://linkedin.com/in/shaarifulz" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-<a href="https://www.facebook.com/shaarifulz/" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-
-<a href="https://gitlab.com/sharifulz" target="_blank">
-<img src="https://img.shields.io/badge/gitlab-%2324292e.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/shaarifulz/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%231E77B5.svg?&style=for-the-badge&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br/> 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sharifulz&&style=flat-square" align="center" />
-</div>  
-<br/>  
 
 <br />
 
