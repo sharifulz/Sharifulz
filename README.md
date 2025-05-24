@@ -130,6 +130,3 @@
 <br/> 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> ------ Credit: <a href="https://github.com/mrabro"> mrabro </a></div> 
