@@ -153,7 +153,7 @@
 
 ### 🎓 [University of Dhaka (Govt. Titumir College)](https://titumircollege.gov.bd/)
 **B.Sc. in Mathematics**  
-📅 2012 – 2017 | 🎖️ Grade: A  
+📅 2012 – 2017 | 🎖️ CGPA: 3.22  
 - Strong foundation in Calculus, Linear Algebra, Geometry, and Statistics  
 - Skills: Fortran · MATLAB · C Programming · Problem Solving
 ---
