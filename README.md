@@ -156,13 +156,6 @@
 📅 2012 – 2017 | 🎖️ Grade: A  
 - Strong foundation in Calculus, Linear Algebra, Geometry, and Statistics  
 - Skills: Fortran · MATLAB · C Programming · Problem Solving
-
-### 🎓 Institute of Business Administration (IBA), University of Dhaka  
-**Advanced Certificate for Management Professionals 4.0**  
-📅 Jan 2025 – Mar 2025 (Ongoing)  
-- Focused on management for IT professionals  
-- Skills: Financial Accounting · Data-driven Decision Making · Agile · Communication
-
 ---
 
 ## 🏅 Certifications
@@ -177,6 +170,13 @@
 
 - **Web Development (NASSCOM)** – Bangladesh Computer Council | *Credential ID: G012250*
 
+### 🎓 Institute of Business Administration (IBA), University of Dhaka  
+**Advanced Certificate for Management Professionals 4.0**  
+📅 Jan 2025 – Mar 2025 (Ongoing)  
+- Focused on management for IT professionals  
+- Skills: Financial Accounting · Data-driven Decision Making · Agile · Communication
+
+  
 ---
 
 
