@@ -117,6 +117,69 @@
 
 <br/> 
 
+---
+
+## 🧰 Experience
+
+### 🏢 Green Delta Insurance Company Limited  
+**Software Engineer**  
+📍 Mohakhali, Dhaka | 🕒 Sep 2021 – Present  
+- Developed and maintained enterprise-grade software solutions.
+- Technologies: RabbitMQ, API Testing, Spring Boot, and more.
+
+### 🏢 CTrends Software & Services Ltd.  
+**Senior Programmer**  
+📍 Niketan, Dhaka | 🕒 Dec 2020 – Sep 2021  
+**Programmer**  
+📍 Niketan, Dhaka | 🕒 Dec 2019 – Dec 2020  
+- Focused on Java application development and enterprise integrations.
+- Technologies: Spring MVC, HTML5, Java, RabbitMQ, etc.
+
+### 🏢 Naztech Inc.  
+**Junior Software Developer**  
+📍 Gulshan, Dhaka | 🕒 Jan 2019 – Nov 2019  
+- Worked on device integration and scripting with Python.
+- Skills: Python, Device Integration, Debugging, and Testing.
+
+---
+
+## 🎓 Education
+
+### 🎓 Jahangirnagar University  
+**M.Sc. in Computer Science**  
+📅 Nov 2021 – Mar 2023 | 🎖️ CGPA: 3.40  
+- Specializations: Data Science, Machine Learning, Neuroinformatics  
+- Skills: OOP · Algorithm Analysis · Data Communication · Neural Networks · Data Mining · Software Testing
+
+### 🎓 University of Dhaka (Govt. Titumir College)  
+**B.Sc. in Mathematics**  
+📅 2012 – 2017 | 🎖️ Grade: A  
+- Strong foundation in Calculus, Linear Algebra, Geometry, and Statistics  
+- Skills: Fortran · MATLAB · C Programming · Problem Solving
+
+### 🎓 Institute of Business Administration (IBA), University of Dhaka  
+**Advanced Certificate for Management Professionals 4.0**  
+📅 Jan 2025 – Mar 2025 (Ongoing)  
+- Focused on management for IT professionals  
+- Skills: Financial Accounting · Data-driven Decision Making · Agile · Communication
+
+---
+
+## 🏅 Certifications
+
+- **CCNA Routing and Switching** – CSL Training | *Credential ID: CSL-ONL-CCN-1816*  
+  _Skills: TCP/IP · Subnetting · VLANs · DHCP/DNS · SSH/Telnet_
+
+- **IDB-BISEW IT Scholarship Project** – *Credential ID: 1245709*  
+  _Skills: Oracle Database · MySQL_
+
+- **Information Technology Passport (IP)** – Bangladesh Computer Council | *Credential ID: IP2019APR00008*
+
+- **Web Development (NASSCOM)** – Bangladesh Computer Council | *Credential ID: G012250*
+
+---
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sharifulz" target="_blank">
