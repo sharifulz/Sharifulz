@@ -121,13 +121,13 @@
 
 ## 🧰 Experience
 
-### 🏢 Green Delta Insurance Company Limited  
+### 🏢 [Green Delta Insurance Company Limited](https://green-delta.com)  
 **Software Engineer**  
 📍 Mohakhali, Dhaka | 🕒 Sep 2021 – Present  
 - Developed and maintained enterprise-grade software solutions.
 - Technologies: RabbitMQ, API Testing, Spring Boot, and more.
 
-### 🏢 CTrends Software & Services Ltd.  
+### 🏢 [CTrends Software & Services Ltd.]  (https://www.ctrends-software.com/)
 **Senior Programmer**  
 📍 Niketan, Dhaka | 🕒 Dec 2020 – Sep 2021  
 **Programmer**  
@@ -135,7 +135,7 @@
 - Focused on Java application development and enterprise integrations.
 - Technologies: Spring MVC, HTML5, Java, RabbitMQ, etc.
 
-### 🏢 Naztech Inc.  
+### 🏢 [Naztech Inc.]  (https://naztech.io/)
 **Junior Software Developer**  
 📍 Gulshan, Dhaka | 🕒 Jan 2019 – Nov 2019  
 - Worked on device integration and scripting with Python.
@@ -145,13 +145,13 @@
 
 ## 🎓 Education
 
-### 🎓 Jahangirnagar University  
+### 🎓 [Jahangirnagar University] (https://www.juniv.edu/department/cse) 
 **M.Sc. in Computer Science**  
 📅 Nov 2021 – Mar 2023 | 🎖️ CGPA: 3.40  
 - Specializations: Data Science, Machine Learning, Neuroinformatics  
 - Skills: OOP · Algorithm Analysis · Data Communication · Neural Networks · Data Mining · Software Testing
 
-### 🎓 University of Dhaka (Govt. Titumir College)  
+### 🎓 [University of Dhaka (Govt. Titumir College)]  (https://titumircollege.gov.bd/)
 **B.Sc. in Mathematics**  
 📅 2012 – 2017 | 🎖️ Grade: A  
 - Strong foundation in Calculus, Linear Algebra, Geometry, and Statistics  
