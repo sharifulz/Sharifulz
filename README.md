@@ -123,23 +123,28 @@
 
 ### 🏢 [Green Delta Insurance Company Limited](https://green-delta.com)  
 **Software Engineer**  
-📍 Mohakhali, Dhaka | 🕒 Sep 2021 – Present  
-- Developed and maintained enterprise-grade software solutions.
+📍 Mohakhali, Dhaka | 🕒 Sep 2021 – Present (3 yrs 10 mos)  
+- Developed and maintained enterprise-grade software solutions.  
 - Technologies: RabbitMQ, API Testing, Spring Boot, and more.
 
-### 🏢 [CTrends Software & Services Ltd.](https://www.ctrends-software.com/)
+---
+
+### 🏢 [CTrends Software & Services Ltd.](https://www.ctrends-software.com/)  
 **Senior Programmer**  
-📍 Niketan, Dhaka | 🕒 Dec 2020 – Sep 2021  
+📍 Niketan, Dhaka | 🕒 Dec 2020 – Sep 2021 (9 mos)  
 **Programmer**  
-📍 Niketan, Dhaka | 🕒 Dec 2019 – Dec 2020  
-- Focused on Java application development and enterprise integrations.
+📍 Niketan, Dhaka | 🕒 Dec 2019 – Dec 2020 (1 yrs 0 mos)  
+- Focused on Java application development and enterprise integrations.  
 - Technologies: Spring MVC, HTML5, Java, RabbitMQ, etc.
 
-### 🏢 [Naztech Inc.](https://naztech.io/)
+---
+
+### 🏢 [Naztech Inc.](https://naztech.io/)  
 **Junior Software Developer**  
-📍 Gulshan, Dhaka | 🕒 Jan 2019 – Nov 2019  
-- Worked on device integration and scripting with Python.
+📍 Gulshan, Dhaka | 🕒 Jan 2019 – Nov 2019 (10 mos)  
+- Worked on device integration and scripting with Python.  
 - Skills: Python, Device Integration, Debugging, and Testing.
+
 
 ---
 
