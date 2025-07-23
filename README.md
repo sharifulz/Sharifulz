@@ -160,23 +160,32 @@
 
 ## 🏅 Certifications
 
+- **DevOps & Cloud Engineering**  – [BongoDev](https://www.bongodev.com/)
+  _Duration: April 2025 (Ongoing)
+
+- **Advanced Certificate for Management Professionals (ACMP) 4.0**  – [Institute of Business Administration (IBA), University of Dhaka](https://acmp.iba-du.edu/)
+- Focused on management for IT professionals  
+- Skills: Financial Accounting · Data-driven Decision Making · Agile · Communication
+  _Completion Date: March 2025
+
+  _Skills: TCP/IP · Subnetting · VLANs · DHCP/DNS · SSH/Telnet_
+  _Completion Date: January 2022, [Certificate](https://drive.google.com/file/d/1GyAHvNMN6lYd1o0-Rvc40UJ7r_axPn7o/view?usp=sharing)
+
 - **CCNA Routing and Switching** – CSL Training | *Credential ID: CSL-ONL-CCN-1816*  
   _Skills: TCP/IP · Subnetting · VLANs · DHCP/DNS · SSH/Telnet_
+  _Completion Date: January 2022, [Certificate](https://drive.google.com/file/d/1GyAHvNMN6lYd1o0-Rvc40UJ7r_axPn7o/view?usp=sharing)
 
 - **IDB-BISEW IT Scholarship Project** – *Credential ID: 1245709*  
   _Skills: Oracle Database · MySQL_
+  _Completion Date: January 2021, [Certificate](https://drive.google.com/file/d/1LuIBZ_Sdw5riPYETc6ejI1QW70tRSTbk/view
+))
 
 - **Information Technology Passport (IP)** – Bangladesh Computer Council | *Credential ID: IP2019APR00008*
+  _Completion Date: April 2018, [Certificate](https://drive.google.com/file/d/1J9ORA9pk1t7Wcd2h-eieuxoDyFkUsBS-/view?usp=sharing)
 
 - **Web Development (NASSCOM)** – Bangladesh Computer Council | *Credential ID: G012250*
+  _Completion Date: September 2016, [Certificate](https://drive.google.com/file/d/1J9Q4yoTIM6eZtkIJibRsTkxi5LJuaaPp/view?usp=sharing)
 
-### 🎓 Institute of Business Administration (IBA), University of Dhaka  
-**Advanced Certificate for Management Professionals 4.0**  
-📅 Jan 2025 – Mar 2025 (Ongoing)  
-- Focused on management for IT professionals  
-- Skills: Financial Accounting · Data-driven Decision Making · Agile · Communication
-
-  
 ---
 
 
