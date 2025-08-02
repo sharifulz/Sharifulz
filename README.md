@@ -176,6 +176,7 @@
 **Focus:** Management for IT professionals  
 **Skills Covered:** Financial Accounting · Data-driven Decision Making · Agile Methodologies · Communication  
 **Completion Date:** March 2025  
+[📄 View Certificate](https://drive.google.com/file/d/1Hjgu19q8JdzeC2MCbjtOOMSFf_-qh6CW/view?usp=sharing) 
 
 ---
 
